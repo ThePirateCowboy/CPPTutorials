@@ -1,0 +1,17 @@
+[{
+  "file": "C:\\Users\\Students\\Documents\\GitHub\\CPPTutorials\\Section7\\Vectors\\main.cpp",
+  "directory": "C:\\Users\\Students\\Documents\\GitHub\\CPPTutorials\\Section7\\Vectors",
+  "command": "g++ -c C:\\Users\\Students\\Documents\\GitHub\\CPPTutorials\\Section7\\Vectors\\main.cpp -o C:\\Users\\Students\\Documents\\GitHub\\CPPTutorials\\Section7\\Vectors\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Users\\Students\\Documents\\GitHub\\CPPTutorials\\Section7\\ChallengeSolution\\main.cpp",
+  "directory": "C:\\Users\\Students\\Documents\\GitHub\\CPPTutorials\\Section7\\ChallengeSolution",
+  "command": "g++ -c C:\\Users\\Students\\Documents\\GitHub\\CPPTutorials\\Section7\\ChallengeSolution\\main.cpp -o C:\\Users\\Students\\Documents\\GitHub\\CPPTutorials\\Section7\\ChallengeSolution\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Users\\Students\\Documents\\GitHub\\CPPTutorials\\Section7\\Challenge\\main.cpp",
+  "directory": "C:\\Users\\Students\\Documents\\GitHub\\CPPTutorials\\Section7\\Challenge",
+  "command": "g++ -c C:\\Users\\Students\\Documents\\GitHub\\CPPTutorials\\Section7\\Challenge\\main.cpp -o C:\\Users\\Students\\Documents\\GitHub\\CPPTutorials\\Section7\\Challenge\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Users\\Students\\Documents\\GitHub\\CPPTutorials\\Section7\\Arrays\\main.cpp",
+  "directory": "C:\\Users\\Students\\Documents\\GitHub\\CPPTutorials\\Section7\\Arrays",
+  "command": "g++ -c C:\\Users\\Students\\Documents\\GitHub\\CPPTutorials\\Section7\\Arrays\\main.cpp -o C:\\Users\\Students\\Documents\\GitHub\\CPPTutorials\\Section7\\Arrays\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }]
