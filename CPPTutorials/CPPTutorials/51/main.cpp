@@ -5,14 +5,15 @@ using namespace std;
 
 
 
-const double smallRoom {25};
-const double largeRoom {50};
-const double salesTaxRate{6};
-const int expirationDays{30};
+
 
 
 int main ()
 {
+    const double smallRoom {25};
+    const double largeRoom {50};
+    const double salesTaxRate{6};
+    const int expirationDays{30};
     int numSmallRooms{};
     int numLargeRooms{};
     
