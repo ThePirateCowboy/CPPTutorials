@@ -2,19 +2,22 @@
 <CodeLite_Workspace Name="CPPTutorials" Database="" Version="10000">
   <Project Name="TemplateProject" Path="Project1/Project1.project" Active="No"/>
   <Project Name="Project2" Path="Project2/Project2.project" Active="No"/>
-  <Project Name="50" Path="50/50.project" Active="Yes"/>
+  <Project Name="50" Path="50/50.project" Active="No"/>
+  <Project Name="51" Path="51/51.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="TemplateProject" ConfigName="Debug"/>
       <Project Name="Project2" ConfigName="Debug"/>
       <Project Name="50" ConfigName="Debug"/>
+      <Project Name="51" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="TemplateProject" ConfigName="Release"/>
       <Project Name="Project2" ConfigName="Release"/>
       <Project Name="50" ConfigName="Release"/>
+      <Project Name="51" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
