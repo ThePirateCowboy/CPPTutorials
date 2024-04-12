@@ -16,13 +16,12 @@ int main ()
     const int expirationDays{30};
     int numSmallRooms{};
     int numLargeRooms{};
-    
-    
+    //input
     cout << "How many small rooms: " << endl;
     cin >> numSmallRooms;
     cout << "How many Large Rooms: " << endl;
     cin >> numLargeRooms;
-    
+    //output
     cout << "***********************************" << endl;
     cout << "Number of small rooms: " << numSmallRooms << endl;
     cout << "Number of Large rooms: " << numLargeRooms << endl;
